@@ -1,9 +1,14 @@
 # Top Music
 >Top Music is a client/server application used to manage a top of songs added, voted and commented by users. 
 <hr>
-#Table of Contents
-*[Technologies used](#tech_used)
-#<a-name="tech_used"></a> Technologies used
+
+# Table of Contents
+* [Technologies used](#tech-used)
+* [Project capabilities](#project)
+
+
+# <a name="tech-used"></a> Technologies used
+# <a name="project"></a> Project capabilities
 
 
 
