@@ -25,7 +25,7 @@ After a regular user is logged he/she has the following options:
 
 An admin has all the actions provided for a regular user and on top of that he can:
 * remove a song from the app
-* block a user for voting songs. 
+* block a user from voting songs. 
 
 
 
