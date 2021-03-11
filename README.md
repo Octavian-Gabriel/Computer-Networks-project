@@ -22,6 +22,7 @@ After a regular user is logged he/she has the following options:
 * see a list with all the music genres
 * vote for a song (increasing its rank).  
 * leave a comment for a particular song
+
 An admin has all the actions provided for a regular user and on top of that he can:
 * remove a song from the app
 * block a user for voting songs. 
