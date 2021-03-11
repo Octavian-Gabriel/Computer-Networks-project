@@ -10,7 +10,8 @@
 # <a name="tech-used"></a> Technologies used
 * Linux environment
 * C programming language
-* TCP/IP communication protocol bewtween clients and server, sockets.
+* TCP/IP communication protocol between clients and server
+* Sockets.
 * Multithreading to ensure concurency of the server.
 * Sqlite3 database API to store informations about songs and users.
 # <a name="project"></a> Application capabilities
